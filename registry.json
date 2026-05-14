@@ -4,7 +4,7 @@
     {
       "id": "swbinds",
       "name": "SwestBinds",
-      "version": "3.4.0",
+      "version": "1.0.0",
       "official": false,
       "author": "swest",
       "description": "Keyboard shortcuts and Fish shell alias viewer. Displays keybindings for Hyprland or Niri compositors plus your Fish aliases and abbreviations.",

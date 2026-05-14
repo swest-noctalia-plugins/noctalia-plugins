@@ -1,7 +1,7 @@
 {
   "id": "swbinds",
   "name": "SwestBinds",
-  "version": "3.4.0",
+  "version": "1.0.0",
   "minNoctaliaVersion": "4.7.6",
   "author": "swest",
   "license": "MIT",
