@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "swbinds",
+      "name": "SwestBinds",
+      "version": "3.4.0",
+      "official": false,
+      "author": "swest",
+      "description": "Keyboard shortcuts and Fish shell alias viewer. Displays keybindings for Hyprland or Niri compositors plus your Fish aliases and abbreviations.",
+      "repository": "https://github.com/swest-noctalia-plugins/noctalia-plugins",
+      "minNoctaliaVersion": "4.7.6",
+      "license": "MIT",
+      "tags": ["Bar", "Panel", "System", "Indicator"],
+      "lastUpdated": "2026-05-14T16:16:14Z"
+    }
+  ]
+}
