@@ -119,3 +119,4 @@ abbr -a gs git status
 Based on [Keybind Cheatsheet](https://github.com/noctalia-dev/noctalia-plugins/tree/main/keybind-cheatsheet) by **blacku**, published in the official Noctalia plugins repo. This fork is maintained by **theswest**.
 
 ## License
+MIT
