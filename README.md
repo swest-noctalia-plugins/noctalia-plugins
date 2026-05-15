@@ -11,3 +11,5 @@ Personal [Noctalia](https://github.com/noctalia-dev/noctalia) plugin repository 
 ## License
 
 MIT
+
+Note: Sorry steve west, i can't remove you as a contributor for some reason!!
